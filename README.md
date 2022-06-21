@@ -1,4 +1,4 @@
-# Hexapawn Solver
+# Hexapawn Game Solver
 A Python hexapawn game solver
 
 Video demonstration available at: https://claud.pro/hexapawn/
