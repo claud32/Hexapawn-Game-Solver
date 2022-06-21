@@ -267,7 +267,7 @@ def moveGenerator(state, boardSize, pawnToMove):
 
 
 # 1) The function’s purpose is to evaluator a board's heuritic value using the sample
-# evaluation metric given in class
+# evaluation metric
 # 2) Expected Arguments are: a list of string as start state, an int indicate the size of the board,
 # a bool isMaxLevel indicate if this level is a max level, 
 # 3) The function returns a Node containing the state and the heuristic value of it
