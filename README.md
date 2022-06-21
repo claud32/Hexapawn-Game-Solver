@@ -3,9 +3,9 @@ A Python hexapawn game solver
 
 Video demonstration available at: https://claud.pro/hexapawn/
 
--Implemented MiniMax search with Alpha–beta pruning algorithm to predict the best next move based on how many moves ahead the user is to look ahead.
--Built components to teach the program how to play hexapawn and generate next move to analyze.
--Developed a static board evaluator to estimate the heuristic value of the moves.
+- Implemented MiniMax search with Alpha–beta pruning algorithm to predict the best next move based on how many moves ahead the user is to look ahead.
+- Built components to teach the program how to play hexapawn and generate next move to analyze.
+- Developed a static board evaluator to estimate the heuristic value of the moves.
 
 ![indicator](https://user-images.githubusercontent.com/38439613/126047291-15771540-5246-42b1-ba9d-6d5eeb702eb2.png)
 
