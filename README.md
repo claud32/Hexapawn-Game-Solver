@@ -1,5 +1,5 @@
 # Hexapawn Game Solver
-A Python hexapawn game solver
+An AI hexapawn game solver built with Python.
 
 Video demonstration available at: https://claud.pro/hexapawn/
 
